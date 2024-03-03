@@ -5,8 +5,26 @@ This project is a flash card application that helps you learn French words. It d
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/flash-card-project.git`
-2. Navigate to the project directory: `cd flash-card-project`
-3. Install the required dependencies: `pip install -r requirements.txt`
+1. Navigate to the project directory: `cd flash-card-project`
+1. Clone the repository or download the code files.
+1. Create a new virtual environment. You can name it env or anything you like:
+
+   ```Shell
+      python -m venv env
+   ```
+
+   ```Shell
+      .\env\Scripts\activate
+   ```
+
+   ```Shell
+      source env/bin/activate
+   ```
+
+1. Install the required dependencies by running the following command in your terminal:
+   ```shell
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
